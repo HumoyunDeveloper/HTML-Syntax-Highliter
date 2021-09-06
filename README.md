@@ -8,7 +8,7 @@
 <p>Use <code>git clone</code> command to clone the repository</p>
 
 ```
-git clone https://github.com/Humoyundeveloper/consoleJS.git
+git clone https://github.com/HumoyunDeveloper/HTML-Syntax-Highliter.git
 ```
 
 <p>Or you can just download this as a zip format</p>
