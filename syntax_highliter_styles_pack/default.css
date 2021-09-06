@@ -1,0 +1,52 @@
+
+.html-text-color {
+  color: #bbb;
+}
+
+.html-attr-color {
+  color: gold;
+}
+
+.html-string-color {
+  color: #00d900;
+}
+
+.html-tag-color {
+  color: #00d9d9;
+}
+
+.html-comment-color {
+  color: #777;
+}
+
+.js-spec-color {
+  color: greenyellow;
+}
+
+.js-add-color {
+  color: #fff;
+}
+
+.js-comment-color {
+  color: #777;
+}
+
+.js-function-name {
+  color: #fff;
+}
+
+.js-curly-brackets-color {
+  color: gold;
+}
+
+.js-str-color {
+  color: #00d9d9;
+}
+
+.js-undefined-color {
+  color: mediumorchid;
+}
+
+.js-number-color {
+  color: skyblue;
+}
