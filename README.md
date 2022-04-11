@@ -46,7 +46,7 @@ document.querySelector("#code").innerHTML = highliter.highlite(`
 </p>
 
 # How it works?
-<p><code>highlite</code> method converts all HTML arrow keys into entities, extracts elements name, attributes, texts and adds them into spesific element and elements have the following class names:</p>
+<p><code>highlite</code> method converts all the HTML arrow keys into entities, extracts element's name, attributes, texts and adds them into specific element. Elements have the following class names:</p>
 <code>html-tag-color</code><br/>
 <code>html-attr-color</code><br/>
 <code>html-string-color</code>
